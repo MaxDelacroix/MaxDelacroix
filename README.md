@@ -42,10 +42,10 @@
 
 ### 📫 Как связаться
 
-- **Email**: max@example.com
-- **LinkedIn**: [linkedin.com/in/вашеимя](https://linkedin.com/in/...)
-- **Портфолио**: [ваш-сайт.ру](https://ваш-сайт.ру)
-- **Telegram**: [@max_telegram](https://t.me/max_telegram)
+- **Email**: iwtborhill@gmail.com
+- **LinkedIn**: ...
+- **Портфолио**: ...
+- **Telegram**: @MechanizmBot
 
 ### ⚡ Интересный факт
 
